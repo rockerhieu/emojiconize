@@ -1,4 +1,4 @@
-[![master on Travis CI](https://travis-ci.org/rockerhieu/emojiconize.png?branch=master)](https://travis-ci.org/rockerhieu/emojiconize)
+[![CircleCI](https://circleci.com/gh/rockerhieu/emojiconize/tree/master.svg?style=svg)](https://circleci.com/gh/rockerhieu/emojiconize/tree/master)
 ![emojicon on Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.rockerhieu/emojiconize/badge.svg)
 
 ## Emojiconize
@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-![image](https://github.com/rockerhieu/emojicon/raw/master/assets/sample.jpg)
+![image](https://github.com/rockerhieu/emojiconize/raw/master/assets/sample.jpg)
 
 ## Usage
 
