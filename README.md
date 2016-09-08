@@ -3,7 +3,7 @@
 
 ## Emojiconize
 
-Render emoji in your Android application in just 1 line of code.
+Render emoji (using [emojicon](https://github.com/rockerhieu/emojicon)) in your Android application with just 1 line of code.
 
 ## Example
 
@@ -41,6 +41,10 @@ compile 'io.github.rockerhieu:emojiconize:<latest-version>'
 ## Building in Eclipse
 
 ![Go home you're drunk](http://img2.wikia.nocookie.net/__cb20130819142928/cardfight/images/thumb/5/55/Go-home-youre-drunk.jpg/500px-Go-home-youre-drunk.jpg)
+
+## Acknowledgements
+
+Emojiconize uses [emojicon](https://github.com/rockerhieu/emojicon) for rendering emoji and is based on the idea of `MdLayoutInflaterFactory` from [android-md-core](https://github.com/henrytao-me/android-md-core/).
 
 ## Contributing
 
